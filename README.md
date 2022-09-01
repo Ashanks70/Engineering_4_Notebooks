@@ -56,7 +56,8 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
 
 ### Test Link
-
+[Shh!](https://github.com/Ashanks70/Engineering_4_Notebooks)
 ### Test Image
-
+![testpic](images/download(1).jfif)
 ### Test GIF
+![testgif](200w.gif)
