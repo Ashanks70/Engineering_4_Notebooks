@@ -58,6 +58,6 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ### Test Link
 [Shh!](https://github.com/Ashanks70/Engineering_4_Notebooks)
 ### Test Image
-![testpic](images/download(1).jfif)
+![testpic](images/download.jpg)
 ### Test GIF
 ![testgif](200w.gif)
