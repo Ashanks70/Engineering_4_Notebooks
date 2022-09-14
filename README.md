@@ -32,6 +32,106 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp;
 
+&nbsp;
+
+## Launchpad1
+
+### Assignment Description
+
+this required us to make the computer count down from 10 to 0.
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+
+### Code
+[Launchpad!](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/launchpad.py)
+
+### Reflection
+
+This assignment was fairly easy, just requr=iring me to remember some of the basics
+
+&nbsp;
+
+&nbsp;
+
+## Launchpad2
+
+### Assignment Description
+
+This assignment required us to add a few blinking LEDs to the project to sync with time.
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+
+### Code
+[Launchpad!](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/launchpad.py)
+
+### Reflection
+
+this one just required me to remember the syntax for LEDs and toss it into the previous work seamlessly.
+&nbsp;
+
+&nbsp;
+
+## Launchpad3
+
+### Assignment Description
+
+this assignment required a button to be integrated and an "abort" function to work with it.
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+
+### Code
+[Launchpad!](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/launchpad.py)
+
+### Reflection
+
+During this assignment I rewrte my entire code to make it cleaner and simpler to read.
+
+&nbsp;
+
+&nbsp;
+
+## Launchpad4
+
+### Assignment Description
+
+this assignment required us to actuate a servo at the end, or make it move progressively earlier
+
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Wiring
+
+This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+
+### Code
+
+[Launchpad!](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/launchpad.py)
+
+### Reflection
+
+the math for this was kind of a pain, but I was happy that I remembered how to do some of the fancy division logic. I read part of the assignment wrong and so the servo is moving for the wrong amount of time,  but was accepted anyway.
+
+&nbsp;
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
