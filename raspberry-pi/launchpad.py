@@ -47,4 +47,4 @@ while True:
                     r.value=True
                 else:
                     g.value=True
-            time.sleep(.055)#sleep for roughly 10/180(1/18) seconds
+            time.sleep(.09)#sleep for roughly 10/180(1/18) seconds
