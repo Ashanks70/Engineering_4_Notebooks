@@ -49,7 +49,7 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
 
 ### Code
-[Launchpad!](https://github.com/ashanks70/Engineering_4_Notebook/blob/main/Raspberry_Pi/launchpad.py)
+[Launchpad!](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/launchpad.py)
 
 ### Reflection
 
@@ -74,7 +74,7 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
 
 ### Code
-[Launchpad!](https://github.com/ashanks70/Engineering_4_Notebook/blob/main/Raspberry_Pi/launchpad.py)
+[Launchpad!](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/launchpad.py)
 
 ### Reflection
 
@@ -98,7 +98,7 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
 
 ### Code
-[Launchpad!](https://github.com/ashanks70/Engineering_4_Notebook/blob/main/Raspberry_Pi/launchpad.py)
+[Launchpad!](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/launchpad.py)
 
 ### Reflection
 
@@ -124,7 +124,7 @@ This may not be applicable to all assignments. Anything where you wire something
 
 ### Code
 
-[Launchpad!](https://github.com/ashanks70/Engineering_4_Notebook/blob/main/Raspberry_Pi/launchpad.py)
+[Launchpad!](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/launchpad.py)
 
 ### Reflection
 
