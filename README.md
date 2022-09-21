@@ -41,7 +41,7 @@ this required us to make the computer count down from 10 to 0.
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![launchpad](images/Launchpad.gif)
 
 ### Wiring
 
@@ -66,7 +66,7 @@ This assignment required us to add a few blinking LEDs to the project to sync wi
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![launchpad](images/Launchpad.gif)
 
 ### Wiring
 
@@ -90,7 +90,7 @@ this assignment required a button to be integrated and an "abort" function to wo
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![launchpad](images/Launchpad.gif)
 
 ### Wiring
 
@@ -115,7 +115,7 @@ this assignment required us to actuate a servo at the end, or make it move progr
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![launchpad](images/Launchpad.gif)
 
 ### Wiring
 
@@ -139,7 +139,7 @@ we had to print the values of the accelerometer to the serial monitor.
 
 ### Evidence 
 
-
+![accelerometer](images/Accelerometer.gif)
 
 ### Wiring
 
@@ -162,7 +162,7 @@ We had to light up an LED if it turned 90 degrees and had to make it battery pow
 
 ### Evidence 
 
-
+![accelerometer](images/Accelerometer.gif)
 
 ### Wiring
 
@@ -185,7 +185,7 @@ we had to make an OLED screen output the numbers instead of the serial monitor
 
 ### Evidence 
 
-
+![accelerometer](images/Accelerometer.gif)
 
 ### Wiring
 
@@ -208,7 +208,7 @@ I had to add a barometer that disabled it if it was 3 meters above the starting 
 
 ### Evidence 
 
-
+![accelerometer](images/Accelerometer.gif)
 
 ### Wiring
 
