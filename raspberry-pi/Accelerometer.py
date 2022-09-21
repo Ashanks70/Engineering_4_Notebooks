@@ -27,6 +27,7 @@ title = "ANGULAR VELOCITY"
 xvalue = "X rotation = "
 yvalue = "Y rotation = "
 zvalue = "Z rotation = "
+alt="altitude = "
 sensor.sealevel_pressure = 103040
 h=sensor.altitude
 while True:
@@ -44,14 +45,19 @@ while True:
     ytext = label.Label(terminalio.FONT, text=yvalue, color = 0xFFFF00, x=5, y=30)
     ztext = label.Label(terminalio.FONT, text=zvalue, color = 0xFFFF00, x=5, y=40)
     text_area = label.Label(terminalio.FONT, text=title, color = 0xFFFF00, x=5, y=5)
+    atext = label.Label(terminalio.FONT, text=alt, color = 0xFFFF00, x=5, y=50)
     splash.append(text_area)
     splash.append(xtext)
     splash.append(ytext)
     splash.append(ztext)
+    splash.append(atext)
+    height=str(sensor.altitude-h)
     xset = label.Label(terminalio.FONT, text=x, color = 0xFFFF00, x=80, y=20)
     yset = label.Label(terminalio.FONT, text=y, color = 0xFFFF00, x=80, y=30)
     zset = label.Label(terminalio.FONT, text=z, color = 0xFFFF00, x=80, y=40)
+    aset=label.Label(terminalio.FONT,text=height, color=0xFFFF00,x=80,y=50)
     splash.append(xset)
+    splash.append(aset)
     splash.append(yset)
     splash.append(zset)
     display.show(splash)
