@@ -143,7 +143,7 @@ we had to print the values of the accelerometer to the serial monitor.
 
 ### Wiring
 
-
+![wiring](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/images/AWiring.jpg)
 
 ### Code
 [Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
@@ -166,7 +166,7 @@ We had to light up an LED if it turned 90 degrees and had to make it battery pow
 
 ### Wiring
 
-
+![wiring](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/images/AWiring.jpg)
 
 ### Code
 [Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
@@ -189,7 +189,7 @@ we had to make an OLED screen output the numbers instead of the serial monitor
 
 ### Wiring
 
-
+![wiring](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/images/AWiring.jpg)
 
 ### Code
 [Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
@@ -212,7 +212,7 @@ I had to add a barometer that disabled it if it was 3 meters above the starting 
 
 ### Wiring
 
-
+![wiring](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/images/AWiring.jpg)
 
 ### Code
 [Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
