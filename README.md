@@ -13,22 +13,21 @@
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
 
 ### Wiring
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py)
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
 
 &nbsp;
 
@@ -129,6 +128,98 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 ### Reflection
 
 the math for this was kind of a pain, but I was happy that I remembered how to do some of the fancy division logic. I read part of the assignment wrong and so the servo is moving for the wrong amount of time,  but was accepted anyway.
+
+&nbsp;
+&nbsp;
+
+## Accelerometer
+
+### Assignment Description
+we had to print the values of the accelerometer to the serial monitor.
+
+### Evidence 
+
+
+
+### Wiring
+
+
+
+### Code
+[Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
+
+### Reflection
+this assignment was simple, but the text blob took a little time.
+
+
+&nbsp;
+&nbsp;
+
+## Powerboost
+
+### Assignment Description
+We had to light up an LED if it turned 90 degrees and had to make it battery powered
+
+### Evidence 
+
+
+
+### Wiring
+
+
+
+### Code
+[Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
+
+### Reflection
+this one just took a little legwork to find out how gravity functioned in relation to slightly off numbers
+
+
+&nbsp;
+&nbsp;
+
+## OLED screen
+
+### Assignment Description
+we had to make an OLED screen output the numbers instead of the serial monitor
+
+### Evidence 
+
+
+
+### Wiring
+
+
+
+### Code
+[Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
+
+### Reflection
+This assignment, I had to get some extra help because it was printing new values over my screen. I fixed it with moving all that to my while true.
+
+
+&nbsp;
+&nbsp;
+
+## Barometer
+
+### Assignment Description
+I had to add a barometer that disabled it if it was 3 meters above the starting point
+
+### Evidence 
+
+
+
+### Wiring
+
+
+
+### Code
+[Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
+
+### Reflection
+This one was hard. I had to find [an Adafruit tutorial](https://learn.adafruit.com/using-mpl3115a2-with-circuitpython/overview) to complete it. I was starting to struggle to fit the pins, and due to code difficulties, just decided to add an extra sda/scl connection
+
 
 &nbsp;
 
