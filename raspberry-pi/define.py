@@ -4,7 +4,7 @@ import busio
 
 
 sda_pin = board.GP10
-scl_pin = board.GP15
+scl_pin = board.GP11
 i2c = busio.I2C(scl_pin, sda_pin)
 
 while not i2c.try_lock():
