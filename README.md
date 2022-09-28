@@ -222,6 +222,52 @@ This one was hard. I had to find [an Adafruit tutorial](https://learn.adafruit.c
 
 
 &nbsp;
+&nbsp;
+
+## Landing Area 1
+
+### Assignment Description
+for this assignment, we had to take three points and find the area of the formed triangle.
+
+### Evidence 
+
+
+
+### Wiring
+no wires are needed
+
+
+### Code
+[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py)
+
+### Reflection
+This assignment was painful. Because I had never used a try/except, almost forgot how lists work, and completely forgot heron's formula, this assignment took a while. First, I found Heron's formula and wrote it down. I also made a function with a try/except and took a minute to test for an int. The list part was simple, and I just had to remember listname[0] and listname[1].
+
+
+&nbsp;
+&nbsp;
+
+## Landing Area 2
+
+### Assignment Description
+
+
+### Evidence 
+
+
+
+### Wiring
+
+
+
+### Code
+[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py)
+
+### Reflection
+this part was difficult, but I had already done all of the hard things in the previous part, so I just had to establish the integers of my variables and relate the points around the origin.
+
+
+&nbsp;
 
 ## Onshape_Assignment_Template
 
