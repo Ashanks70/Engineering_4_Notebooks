@@ -146,7 +146,7 @@ we had to print the values of the accelerometer to the serial monitor.
 ![wiring](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/images/AWiring.jpg)
 
 ### Code
-[Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
+[Accelerometer](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
 
 ### Reflection
 this assignment was simple, but the text blob took a little time.
@@ -169,7 +169,7 @@ We had to light up an LED if it turned 90 degrees and had to make it battery pow
 ![wiring](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/images/AWiring.jpg)
 
 ### Code
-[Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
+[Accelerometer](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
 
 ### Reflection
 this one just took a little legwork to find out how gravity functioned in relation to slightly off numbers
@@ -192,7 +192,7 @@ we had to make an OLED screen output the numbers instead of the serial monitor
 ![wiring](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/images/AWiring.jpg)
 
 ### Code
-[Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
+[Accelerometer](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
 
 ### Reflection
 This assignment, I had to get some extra help because it was printing new values over my screen. I fixed it with moving all that to my while true.
@@ -215,7 +215,7 @@ I had to add a barometer that disabled it if it was 3 meters above the starting 
 ![wiring](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/images/AWiring.jpg)
 
 ### Code
-[Accelerometer)(https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
+[Accelerometer](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Accelerometer.py)
 
 ### Reflection
 This one was hard. I had to find [an Adafruit tutorial](https://learn.adafruit.com/using-mpl3115a2-with-circuitpython/overview) to complete it. I was starting to struggle to fit the pins, and due to code difficulties, just decided to add an extra sda/scl connection
