@@ -253,7 +253,7 @@ This assignment was painful. Because I had never used a try/except, almost forgo
 for this assignment,we had to take all of the information and put it down on an OLED screen.
 
 ### Evidence 
-
+![areagif](images/area.gif)
 
 
 ### Wiring
