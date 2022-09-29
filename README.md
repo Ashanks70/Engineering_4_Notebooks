@@ -234,11 +234,11 @@ for this assignment, we had to take three points and find the area of the formed
 
 
 ### Wiring
-no wires are needed
+no wires are needed for this assignment
 
 
 ### Code
-[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py)
+[Area](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Area.py)
 
 ### Reflection
 This assignment was painful. Because I had never used a try/except, almost forgot how lists work, and completely forgot heron's formula, this assignment took a while. First, I found Heron's formula and wrote it down. I also made a function with a try/except and took a minute to test for an int. The list part was simple, and I just had to remember listname[0] and listname[1].
@@ -250,7 +250,7 @@ This assignment was painful. Because I had never used a try/except, almost forgo
 ## Landing Area 2
 
 ### Assignment Description
-
+for this assignment,we had to take all of the information and put it down on an OLED screen.
 
 ### Evidence 
 
@@ -261,7 +261,7 @@ This assignment was painful. Because I had never used a try/except, almost forgo
 
 
 ### Code
-[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py)
+[Area](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/Area.py)
 
 ### Reflection
 this part was difficult, but I had already done all of the hard things in the previous part, so I just had to establish the integers of my variables and relate the points around the origin.
