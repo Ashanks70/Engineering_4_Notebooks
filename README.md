@@ -257,7 +257,7 @@ for this assignment,we had to take all of the information and put it down on an 
 
 
 ### Wiring
-
+![area](images/area.png)
 
 
 ### Code
