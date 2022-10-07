@@ -268,6 +268,76 @@ this part was difficult, but I had already done all of the hard things in the pr
 
 
 &nbsp;
+&nbsp;
+
+##Landing Area 3
+
+### Assignment Description
+For this assignment, I had to determine the closest triagnle with an area greater than 100
+
+### Evidence 
+
+
+
+### Wiring
+
+
+
+### Code
+[Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py)
+
+### Reflection
+this assignment was a slog, but it got finished fairly quickly.
+
+
+&nbsp;
+&nbsp;
+
+## Morse code 1
+
+### Assignment Description
+
+
+### Evidence 
+
+
+
+### Wiring
+
+
+
+### Code
+[Morse Code](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/morse.py)
+
+### Reflection
+At first, I read the assignment wrong and thought it also wanted an LED, so I coded that second assignment(and finished it) before really focusing on this one.
+
+
+&nbsp;
+&nbsp;
+
+## Morse Code 2
+
+### Assignment Description
+this assignment required us to blink a LED with the morse code.
+
+### Evidence 
+
+
+
+### Wiring
+
+
+
+### Code
+[Morse Code](https://github.com/Ashanks70/Engineering_4_Notebooks/blob/main/raspberry-pi/morse.py)
+
+### Reflection
+This assignment was kind of annoying to start, but since I mostly understood how dictionaries work in python, it was a matter of looking for the numerous different mistakes I made
+
+
+&nbsp;
+
 
 ## Onshape_Assignment_Template
 
