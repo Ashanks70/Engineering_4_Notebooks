@@ -17,37 +17,38 @@ MORSE_CODE = { 'A':'.-', 'B':'-...',
     '0':'-----', ', ':'--..--', '.':'.-.-.-',
     '?':'..--..', '/':'-..-.', '-':'-....-',
     '(':'-.--.', ')':'-.--.-'}
-led=digitalio.DigitalInOut(board.GP12)
+led=digitalio.DigitalInOut(board.GP16)
 led.direction=digitalio.Direction.OUTPUT
-def translate(letter, led):
-    order=letter.split(",")
-    for i in order:
+list=[]
+def translate(letter):
+    for i in letter:
         if i==".":
-            print("short")
             led.value=True
             time.sleep(.25)
         if i=="-":
-            print(long)
-            led.value=False
+            led.value=True
             time.sleep(.75)
         led.value=False
         time.sleep(.25)
     time.sleep(.5)
 
 while True:
-#        try:
-    word=input("type word: ")
+    try:
+        word=input("type word: ")
 
-    for letter in word:
-        if letter==" ":
-            print(" ")
-            time.sleep(1.75)
-        if letter != " ":
-            l=str.upper(letter)
-            l=MORSE_CODE[l]
-            print(l)
-            str(l)
-            translate(l,led)
-        
-#        except:
-#            print("error, please try again")
+        for letter in word:
+            if letter==" ":
+                print(" ")
+                l=letter
+                time.sleep(1.75)
+            if letter != " ":
+                l=str.upper(letter)
+                l=MORSE_CODE[l]
+                print(l)
+                str(l)
+                translate(l)
+            list.append(l)
+        print(list)
+        list=[]
+    except:
+        print("error, please try again")
