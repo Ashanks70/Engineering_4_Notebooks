@@ -280,7 +280,7 @@ For this assignment, I had to determine the closest triagnle with an area greate
 
 
 ### Wiring
-
+![area](images/area.png)
 
 
 ### Code
@@ -296,14 +296,14 @@ this assignment was a slog, but it got finished fairly quickly.
 ## Morse code 1
 
 ### Assignment Description
-
+we had to translate words into chunks of morse code
 
 ### Evidence 
 
 
 
 ### Wiring
-
+you don't need any wires for this
 
 
 ### Code
@@ -326,7 +326,7 @@ this assignment required us to blink a LED with the morse code.
 
 
 ### Wiring
-
+![morse](images/morse.png)
 
 
 ### Code
