@@ -299,7 +299,7 @@ this assignment was a slog, but it got finished fairly quickly.
 we had to translate words into chunks of morse code
 
 ### Evidence 
-
+![screen](images/screen.gif)
 
 
 ### Wiring
@@ -322,7 +322,7 @@ At first, I read the assignment wrong and thought it also wanted an LED, so I co
 this assignment required us to blink a LED with the morse code.
 
 ### Evidence 
-
+![morse](images/morse.gif)
 
 
 ### Wiring
