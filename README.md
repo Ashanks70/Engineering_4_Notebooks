@@ -373,7 +373,7 @@ I had to follow the instructions to build a ring in onshape
 
 ### Part Image
 
-
+![Ring](images/RingKey.png)
 
 ### Reflection
 This was really simple to make and it just required me to follow the instructions
@@ -394,7 +394,7 @@ I had to make a jagged rack that was attached to a pull-circle
 
 ### Part Image
 
-
+![Key](images/RingKey.png)
 
 ### Reflection
 This part was also very simple and required me to follow the directions
@@ -457,7 +457,7 @@ We had to input the beam into simscale in order to measure the deflection and vo
 
 ### Part Image
 
-
+![sim](images/Beamsim.png)
 
 ### Reflection
 We ended up with a deflection of 46 mm for the first run. We will work on improving it later
@@ -479,7 +479,7 @@ We had to work on improving our previous design for the beam.
 
 ### Part Image
 
-
+![sim](images/Beamsim.png)
 
 ### Reflection
 We ended up making it taller, but thinner, and ended up with a deflection of 37 mm afterwards.
