@@ -415,7 +415,7 @@ We had to assemble the parts made in  the previous assignments
 
 ### Part Image
 
-
+![assembly](images/teamassembly.png)
 
 ### Reflection
 This also came with a sheet of instructions to follow, making it rather boring
@@ -436,7 +436,7 @@ We had to design a beam that would hold as much as we could make it with a lengt
 
 ### Part Image
 
-
+![beam](images/beam.png)
 
 ### Reflection
 This took a lot of research, but we got a fairly simple, but functional design
