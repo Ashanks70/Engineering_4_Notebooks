@@ -343,19 +343,146 @@ This assignment was kind of annoying to start, but since I mostly understood how
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+
 
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
+
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+&nbsp;
+
+&nbsp;
+
+
+## Ring
+
+### Assignment Description
+
+I had to follow the instructions to build a ring in onshape
+
+### Part Link 
+
+[teamwork!](https://cvilleschools.onshape.com/documents/3aa312c08f145112890ad27c/w/8b2620cc6fde6f2649d3b2f0/e/71025ffb9d5d2152cb2a5e13?renderMode=0&uiState=636d119a52f170477f97f721)
+
+### Part Image
+
+
+
+### Reflection
+This was really simple to make and it just required me to follow the instructions
+
+&nbsp;
+&nbsp;
+
+
+## Key
+
+### Assignment Description
+I had to make a jagged rack that was attached to a pull-circle
+
+
+### Part Link 
+
+[teamwork!](https://cvilleschools.onshape.com/documents/3aa312c08f145112890ad27c/w/8b2620cc6fde6f2649d3b2f0/e/71025ffb9d5d2152cb2a5e13?renderMode=0&uiState=636d119a52f170477f97f721)
+
+### Part Image
+
+
+
+### Reflection
+This part was also very simple and required me to follow the directions
+
+&nbsp;
+&nbsp;
+
+
+## Ring & Key Assembly
+
+### Assignment Description
+We had to assemble the parts made in  the previous assignments
+
+
+### Part Link 
+
+[teamwork!](https://cvilleschools.onshape.com/documents/3aa312c08f145112890ad27c/w/8b2620cc6fde6f2649d3b2f0/e/71025ffb9d5d2152cb2a5e13?renderMode=0&uiState=636d119a52f170477f97f721)
+
+### Part Image
+
+
+
+### Reflection
+This also came with a sheet of instructions to follow, making it rather boring
+
+&nbsp;
+&nbsp;
+
+
+## FEA 1
+
+### Assignment Description
+We had to design a beam that would hold as much as we could make it with a length of 200 mm and 13 grams of material
+
+
+### Part Link 
+
+[beam](https://cvilleschools.onshape.com/documents/34f9b9f6b9a6d5d97f68f198/w/f04197a87a1dec7558ea7a46/e/e540280db2672cb2008c8b17?renderMode=0&uiState=636d115f3b23f06f59035025)
+
+### Part Image
+
+
+
+### Reflection
+This took a lot of research, but we got a fairly simple, but functional design
+
+&nbsp;
+&nbsp;
+
+
+## FEA 2
+
+### Assignment Description
+We had to input the beam into simscale in order to measure the deflection and von misses stress with a weight of 30 N
+
+
+### Part Link 
+
+[beam](https://cvilleschools.onshape.com/documents/34f9b9f6b9a6d5d97f68f198/w/f04197a87a1dec7558ea7a46/e/e540280db2672cb2008c8b17?renderMode=0&uiState=636d115f3b23f06f59035025)
+
+### Part Image
+
+
+
+### Reflection
+We ended up with a deflection of 46 mm for the first run. We will work on improving it later
+
+&nbsp;
+
+&nbsp;
+
+
+## FEA 3
+
+### Assignment Description
+We had to work on improving our previous design for the beam.
+
+
+### Part Link 
+
+[beam](https://cvilleschools.onshape.com/documents/34f9b9f6b9a6d5d97f68f198/w/f04197a87a1dec7558ea7a46/e/e540280db2672cb2008c8b17?renderMode=0&uiState=636d115f3b23f06f59035025)
+
+### Part Image
+
+
+
+### Reflection
+We ended up making it taller, but thinner, and ended up with a deflection of 37 mm afterwards.
 
 &nbsp;
 
