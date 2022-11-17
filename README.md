@@ -460,7 +460,7 @@ We had to input the beam into simscale in order to measure the deflection and vo
 ![sim](images/Beamsim.png)
 
 ### Reflection
-We ended up with a deflection of 46 mm for the first run. We will work on improving it later. We see a lot of failure closer to the box, and it is likely to snap sooner. We broke around 3 kilograms for our test.
+We ended up with a deflection of 46 mm for the first run. We will work on improving it later. We see a lot of failure closer to the box, and it is likely to snap sooner. We broke around 3 kilograms for our test. We also realized we were likely to break at the top, or bend too much towards the bottom. We decided that we had to increase the mass at the left to reduce deflection. we need to increase the thickness later.
 
 &nbsp;
 
@@ -482,7 +482,7 @@ We had to work on improving our previous design for the beam.
 ![sim](images/Beamsim.png)
 
 ### Reflection
-We ended up making it taller, but thinner, and ended up with a deflection of 37 mm afterwards. Making it more compact decreased the stress and therfore displacement to reduce our deflection as a whole.
+We ended up making it taller, but thinner, and ended up with a deflection of 37 mm afterwards. Making it more compact decreased the stress and therfore displacement to reduce our deflection as a whole. This made us win the first class competition, but we need to improve it so we don't end up losing in the second contest.
 
 &nbsp;
 
