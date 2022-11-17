@@ -376,7 +376,7 @@ I had to follow the instructions to build a ring in onshape
 ![Ring](images/RingKey.png)
 
 ### Reflection
-This was really simple to make and it just required me to follow the instructions
+This was really simple to make and it just required me to follow the instructions. The other part on this side was far more complicated and required the helix tool to complete. I think that this assignment was fairly unbalanced in design.
 
 &nbsp;
 &nbsp;
@@ -397,7 +397,7 @@ I had to make a jagged rack that was attached to a pull-circle
 ![Key](images/RingKey.png)
 
 ### Reflection
-This part was also very simple and required me to follow the directions
+This part was also very simple and required me to follow the directions. After using a rack and pinion relation in my project last year, this felt simple, and I use linear patterns regularly for my parts.
 
 &nbsp;
 &nbsp;
@@ -418,7 +418,7 @@ We had to assemble the parts made in  the previous assignments
 ![assembly](images/teamassembly.png)
 
 ### Reflection
-This also came with a sheet of instructions to follow, making it rather boring
+This also came with a sheet of instructions to follow, making it rather boring. I did it together with my partner and we got it done with quickly. the hardest part was animating it afterwards.
 
 &nbsp;
 &nbsp;
@@ -439,7 +439,7 @@ We had to design a beam that would hold as much as we could make it with a lengt
 ![beam](images/beam.png)
 
 ### Reflection
-This took a lot of research, but we got a fairly simple, but functional design
+This took a lot of research, but we got a fairly simple, but functional design. We tried to make an H-beam first, before realizing that there was too much overhang, which also ruled out I-beams. We settled on a simple design of a plank with support beams.
 
 &nbsp;
 &nbsp;
@@ -460,7 +460,7 @@ We had to input the beam into simscale in order to measure the deflection and vo
 ![sim](images/Beamsim.png)
 
 ### Reflection
-We ended up with a deflection of 46 mm for the first run. We will work on improving it later
+We ended up with a deflection of 46 mm for the first run. We will work on improving it later. We see a lot of failure closer to the box, and it is likely to snap sooner. We broke around 3 kilograms for our test.
 
 &nbsp;
 
@@ -482,7 +482,7 @@ We had to work on improving our previous design for the beam.
 ![sim](images/Beamsim.png)
 
 ### Reflection
-We ended up making it taller, but thinner, and ended up with a deflection of 37 mm afterwards.
+We ended up making it taller, but thinner, and ended up with a deflection of 37 mm afterwards. Making it more compact decreased the stress and therfore displacement to reduce our deflection as a whole.
 
 &nbsp;
 
